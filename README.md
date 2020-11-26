@@ -2,7 +2,7 @@
 
 ## Website
 
-See how the website works [Link to Site](hatta.netlify.app)
+See how the website works [Link to Site](https://www.hatta.netlify.app)
 
 ## 🚀 Quick start
 
